@@ -1,3 +1,4 @@
+# This Makefile adds all the necessary inputs for the tool AHRD and then runs AHRD using the inputs
 # User provides this information
 RUN_NAME ?= test
 FASTA ?= botrytis_cinerea__b05.10__1_proteins.fasta
